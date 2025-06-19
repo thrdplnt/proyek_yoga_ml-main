@@ -1,0 +1,18 @@
+# Folder virtual environment Python
+/venv/
+__pycache__/
+
+# File yang dihasilkan oleh script
+*.csv
+*.pkl
+
+# Folder dataset
+/dataset/ 
+
+# Konfigurasi IDE dan editor
+.vscode/
+.idea/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
